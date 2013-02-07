@@ -1,0 +1,7 @@
+{
+  "name": "jquery-mobile",
+  "version": "1.2.0",
+  "dependencies": {
+    "jquery": "1.8.2"
+  }
+}
